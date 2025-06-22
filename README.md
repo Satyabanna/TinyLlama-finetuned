@@ -23,7 +23,7 @@ A complete training pipeline for fine-tuning a medical chatbot using TinyLlama-1
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Satyabanna/TinyLlama-finetuned.git
 cd slmcursor
 ```
 
